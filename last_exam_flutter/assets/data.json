@@ -1,0 +1,33 @@
+[
+  {
+    "name": "Paris",
+    "rate": 4.8,
+    "image": "https://images2.thanhnien.vn/Uploaded/trantam/2022_09_09/2177bcab-50ac-4aab-aff5-ff2f31cc0479-3545.jpeg"
+  },
+  {
+    "name": "New York City",
+    "rate": 4.9,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu.jpg/1200px-View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu.jpg"
+  },
+  {
+    "name": "Tokyo",
+    "rate": 4.7,
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/26/97/39/7f/caption.jpg?w=1200&h=-1&s=1&cx=1920&cy=1080&chk=v1_f31158e4bb953d28a308"
+  },
+  {
+    "name": "London",
+    "rate": 4.6,
+    "image": "https://duhocnamphong.vn/upload_images/images/2019/10/30/Thanh%20pho%20London%2C%20UK.jpg"
+  },
+  {
+    "name": "Sydney",
+    "rate": 4.9,
+    "image": "https://images.ctfassets.net/szez98lehkfm/FV7NgZtMbgnjxHFdzIFYl/0e3948c0fc08107ebb0c13f2475e4856/MyIC_Article_104204?fm=webp"
+  },
+  {
+    "name": "Hanoi",
+    "rate": 4.7,
+    "image": "https://statics.vinpearl.com/from-hanoi-to-hoi-an-0_1683369093.jpg"
+  }
+  
+]
